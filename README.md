@@ -27,3 +27,6 @@ We welcome contributions! If you’d like to help improve the Character Progress
 - Create a feature branch to add enhancements.
 - Commit your changes.
 - Submit a pull request.
+
+## Attribution
+If you use this project or any part of it in your own work, please give appropriate credit by linking to this repository or mentioning the author: Tushar Vishwakarma.
